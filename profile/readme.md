@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://briehq.com">
+  <a href="https://brie.io">
     <img src="./content/brie-icon-400x400.png" width="100px" alt="Brie - Capture bugs 10x faster" />
   </a>
 </p>
@@ -11,8 +11,8 @@
 <br />
 
 <p align="center">
-  <a href="https://go.briehq.com/github" target="_blank">Repo</a> •
-  <a href="https://go.briehq.com/lp" target="_blank">Website</a> •
-  <a href="https://go.briehq.com/discord" target="_blank">Discord</a> •
-  <a href="https://go.briehq.com/docs" target="_blank">Docs</a>
+  <a href="https://go.brie.io/github" target="_blank">Repo</a> •
+  <a href="https://go.brie.io/lp" target="_blank">Website</a> •
+  <a href="https://go.brie.io/discord" target="_blank">Discord</a> •
+  <a href="https://go.brie.io/docs" target="_blank">Docs</a>
 </p>
